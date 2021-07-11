@@ -219,13 +219,8 @@ aside img:hover {
   transform: scale(1.3);
 }
 
-/* .hero img:hover {
-    transform:scale(1.1);
-} */
-
 li a:hover {
   text-shadow: 0 0 5px;
-  color: ;
   font-size: +105%;
 }
 
