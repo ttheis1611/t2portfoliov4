@@ -54,7 +54,7 @@ Created by ttheis1611.
 ## License
 This application is covered under MIT.
   
-
+Below for React instructions
 
 
 # Getting Started with Create React App
